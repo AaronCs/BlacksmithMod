@@ -1,0 +1,9 @@
+{
+  "BlacksmithMod:ForgeCardOption": {
+    "TEXT": [
+      "Forge Card",
+      "Select two cards to create a new card",
+      "No forgeable cards"
+    ]
+  }
+}

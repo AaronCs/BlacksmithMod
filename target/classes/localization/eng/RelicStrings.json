@@ -1,0 +1,9 @@
+{
+  "BlacksmithMod:ForgeRelic": {
+    "NAME": "Anvil",
+    "FLAVOR": "An essential tool for metal workers",
+    "DESCRIPTIONS": [
+      "You can now forge at Rest Sites"
+    ]
+  }
+}
