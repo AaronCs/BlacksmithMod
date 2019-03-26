@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<project name="maven-antrun-" default="main"  >
-<target name="main">
-  <copy file="target/Blacksmith.jar" tofile="../lib/Blacksmith.jar"/>
-  <copy file="target/Blacksmith.jar" tofile="/home/aaron/.local/share/Steam/steamapps/common/SlayTheSpire/mods/Blacksmith.jar"/>
-</target>
-</project>
